@@ -1,12 +1,18 @@
 
 <h1 align="center">Hi 👋, I'm Dhanraj Nikam</h1>
-<h3 align="center">🤝Java Developer</h3>
+<h3 align="center">🤝Software Engineer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
 
 
 # 💫 About Me:
-🔭 I’m Currently Studying Computer Science And Information Technology<br>
+🔭 Hello everyone, I'm Dhanraj, a CSIT Btech student currently pursuing my degree at Rajarambapu Institute of Technology. I'm a passionate web developer and Java programmer, with a keen interest in data structures and algorithms.
+
+Programming has always been my passion since my school days, and I have been constantly exploring the world of computer science. My fascination with web development began when I discovered the power of the internet, and since then, I have been honing my skills to create beautiful, functional websites.
+
+I believe that perseverance and hard work are the keys to success in any field, and programming is no exception. I enjoy the challenge of solving complex problems and take pride in delivering high-quality code that meets the requirements of my clients.
+
+Apart from programming, I also have a keen interest in playing chess and expanding my knowledge of the stock market. I strongly believe that a well-rounded personality is crucial for success in life, and I always strive to balance my academic pursuits with my extracurricular activities.<br>
 
 
 ## 🌐 Socials:
